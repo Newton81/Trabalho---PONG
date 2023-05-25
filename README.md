@@ -1,8 +1,10 @@
 # Trabalho---PONG
+```
 Para rodar:
 npm install
 node index.js
-
-Disxentes:
+```
+Discentes:
 Newton Rubens Torres Quarentei
 Davi Barbosa Gibson
+```
