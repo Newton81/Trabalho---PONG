@@ -1,3 +1,8 @@
 # Trabalho---PONG
+Para rodar:
+npm install
+node index.js
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-rqeqfi)
+Disxentes:
+Newton Rubens Torres Quarentei
+Davi Barbosa Gibson
