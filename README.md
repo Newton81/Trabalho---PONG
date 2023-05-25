@@ -7,6 +7,5 @@ node index.js
 Discentes:
 ```
 Newton Rubens Torres Quarentei
-```
 Davi Barbosa Gibson
 ```
